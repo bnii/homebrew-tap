@@ -1,8 +1,8 @@
 class Spotify < Formula
   desc "Babashka CLI for Spotify Web API"
   homepage "https://github.com/bnii/bb-spotify"
-  url "https://github.com/bnii/bb-spotify/archive/refs/tags/v0.0.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://github.com/bnii/bb-spotify/archive/refs/tags/v0.0.1.tar.gz"
+  sha256 "58cfba4ecf1927950627672a44da7fce6c5ce79b54bfc2690137ea117d84b150"
   license "ISC"
 
   depends_on "borkdude/brew/babashka"
