@@ -1,8 +1,8 @@
 class Strava < Formula
   desc "Babashka CLI for Strava API v3"
   homepage "https://github.com/bnii/bb-strava"
-  url "https://github.com/bnii/bb-strava/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "9c8f2f638434298e48a325bc3341ce5c45264ad067fdbd1b257071ba6c1ff1a6"
+  url "https://github.com/bnii/bb-strava/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "c86f4b1b196036babf4099ba18b5c39830c1a39b2a831dd0c569a9497a1cdc81"
   license "ISC"
 
   depends_on "borkdude/brew/babashka"
